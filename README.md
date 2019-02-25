@@ -14,3 +14,5 @@ http://wordaligned.org/articles/aligning-the-first-line-of-a-triplequoted-string
 ## Python’s str.isdigit vs. str.isnumeric
 https://blog.lerner.co.il/pythons-str-isdigit-vs-str-isnumeric
 
+## Stacks and Queues in Python
+https://dbader.org/blog/stacks-in-python

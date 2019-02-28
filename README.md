@@ -9,6 +9,9 @@ https://realpython.com/run-python-scripts/
 ## Operators and Expressions in Python
 https://realpython.com/python-operators-expressions/
 
+## Supercharge your classes with super()
+https://realpython.com/python-super/
+
 ## Stacks and Queues in Python
 https://dbader.org/blog/stacks-in-python
 

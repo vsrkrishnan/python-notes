@@ -9,6 +9,9 @@ https://realpython.com/run-python-scripts/
 ## Operators and Expressions in Python
 https://realpython.com/python-operators-expressions/
 
+## Dictionaries, Maps, and Hash Tables in Python
+https://dbader.org/blog/python-dictionaries-maps-and-hashtables
+
 ## Supercharge your classes with super()
 https://realpython.com/python-super/
 

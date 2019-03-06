@@ -12,6 +12,9 @@ https://realpython.com/python-operators-expressions/
 ## Dictionaries, Maps, and Hash Tables in Python
 https://dbader.org/blog/python-dictionaries-maps-and-hashtables
 
+## Sets and Multisets in Python
+https://dbader.org/blog/sets-and-multiset-in-python
+
 ## Supercharge your classes with super()
 https://realpython.com/python-super/
 

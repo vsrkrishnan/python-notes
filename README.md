@@ -29,6 +29,7 @@ https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-i
 
 ## Stacks and Queues in Python
 https://dbader.org/blog/stacks-in-python
+https://dbader.org/blog/queues-in-python
 
 # Tips, Tricks and Hacks
 

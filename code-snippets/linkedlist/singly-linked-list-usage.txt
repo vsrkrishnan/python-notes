@@ -1,0 +1,28 @@
+>>> lst = SinglyLinkedList()
+>>> lst
+[]
+
+>>> lst.prepend(23)
+>>> lst.prepend('a')
+>>> lst.prepend(42)
+>>> lst.prepend('X')
+>>> lst.append('the')
+>>> lst.append('end')
+
+>>> lst
+['X', 42, 'a', 23, 'the', 'end']
+
+>>> lst.find('X')
+'X'
+>>> lst.find('y')
+None
+
+>>> lst.reverse()
+>>> lst
+['end', 'the', 23, 'a', 42, 'X']
+
+>>> lst.remove(42)
+>>> lst
+['end', 'the', 23, 'a', 'X']
+
+>>> lst.remove('not found')

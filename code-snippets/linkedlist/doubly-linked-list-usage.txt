@@ -1,0 +1,30 @@
+>>> lst = DoublyLinkedList()
+>>> lst
+[]
+
+>>> lst.prepend(23)
+>>> lst.prepend('a')
+>>> lst.prepend(42)
+>>> lst.prepend('X')
+>>> lst.append('the')
+>>> lst.append('end')
+
+>>> lst
+['X', 42, 'a', 23, 'the', 'end']
+
+>>> lst.find('X')
+'X'
+>>> lst.find('y')
+None
+
+>>> lst.reverse()
+>>> lst
+['end', 'the', 23, 'a', 42, 'X']
+
+>>> elem = lst.find(42)
+>>> lst.remove_elem(elem)
+
+>>> lst.remove('X')
+>>> lst.remove('not found')
+>>> lst
+['end', 'the', 23, 'a']

@@ -27,8 +27,11 @@ https://realpython.com/python-super/
 ## Memory Management for Mutable & Immutable Objects
 https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95
 
-## Stacks and Queues in Python
+## Stacks in Python
 https://dbader.org/blog/stacks-in-python
+
+## Queues in Python
+https://dbader.org/blog/queues-in-python
 
 # Tips, Tricks and Hacks
 

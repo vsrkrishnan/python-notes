@@ -21,6 +21,9 @@ https://dbader.org/blog/python-arrays
 ## Records, Structs, and Data Transfer Objects in Python
 https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python
 
+## Linked Lists in Python
+https://dbader.org/blog/python-linked-list
+
 ## Supercharge your classes with super()
 https://realpython.com/python-super/
 

@@ -39,6 +39,9 @@ https://dbader.org/blog/stacks-in-python
 ## Queues in Python
 https://dbader.org/blog/queues-in-python
 
+## Managing multiple Python versions and environments in Python
+https://realpython.com/intro-to-pyenv/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

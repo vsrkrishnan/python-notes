@@ -33,6 +33,9 @@ https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-i
 ## Parameter Passing for Mutable & Immutable Objects
 https://medium.com/@tyastropheus/tricky-python-ii-parameter-passing-for-mutable-immutable-objects-10e968cbda35
 
+## Is Python pass-by-reference or pass-by-value?
+https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/
+
 ## Stacks in Python
 https://dbader.org/blog/stacks-in-python
 

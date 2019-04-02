@@ -35,6 +35,16 @@ def timer(func):
         return value
     return wrapper_timer
 
+def repeat(num_times):
+    def decorator_repeat(func):
+        @functools.wraps(func)
+        def wrapper_repeat(*args, **kwargs):
+            for _ in range(num_times):
+                value = func(*args, **kwargs)
+            return value
+        return wrapper_repeat
+    return decorator_repeat
+
 class CountCalls:
     def __init__(self, func):
         functools.update_wrapper(self, func)

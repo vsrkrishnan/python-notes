@@ -48,6 +48,9 @@ https://realpython.com/intro-to-pyenv/
 ## NamedTuples in Python
 https://www.lalogiadepython.com/2019/01/18/namedtuples-easier-way/
 
+## Primer on Python Decorators
+https://realpython.com/primer-on-python-decorators/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

@@ -61,3 +61,6 @@ https://blog.lerner.co.il/pythons-str-isdigit-vs-str-isnumeric
 
 ## Understanding Memory Management of Python objects
 https://code.tutsplus.com/tutorials/understand-how-much-memory-your-python-objects-use--cms-25609
+
+## Python’s “else” clause for loops
+https://blog.lerner.co.il/pythons-else-clause-for-loops/

@@ -1,8 +1,6 @@
 # python-notes
 This repository is basically a list of references for me to keep track of all the Python tips, tricks and hacks that I have encountered during my work.
 
-# Getting started
-
 ## Executing your Python
 https://realpython.com/run-python-scripts/
 

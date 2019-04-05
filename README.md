@@ -62,3 +62,6 @@ https://code.tutsplus.com/tutorials/understand-how-much-memory-your-python-objec
 
 ## Python’s “else” clause for loops
 https://blog.lerner.co.il/pythons-else-clause-for-loops/
+
+## Monkey patching with Python
+https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained.html

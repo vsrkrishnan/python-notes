@@ -65,3 +65,6 @@ https://blog.lerner.co.il/pythons-else-clause-for-loops/
 
 ## Monkey patching with Python
 https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained.html
+
+## Pretty-print your dict
+https://coderwall.com/p/gmxnqg/pretty-printing-a-python-dictionary

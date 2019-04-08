@@ -68,3 +68,6 @@ https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained
 
 ## Pretty-print your dict
 https://coderwall.com/p/gmxnqg/pretty-printing-a-python-dictionary
+
+## Modify code without breaking functionality, using decorators
+https://dev.to/kchawla_pi/using-a-decorators-to-solve-my-task-the-thinking--the-process-49f0

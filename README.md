@@ -71,3 +71,6 @@ https://coderwall.com/p/gmxnqg/pretty-printing-a-python-dictionary
 
 ## Modify code without breaking functionality, using decorators
 https://dev.to/kchawla_pi/using-a-decorators-to-solve-my-task-the-thinking--the-process-49f0
+
+## Flattening a Nested list
+https://www.lalogiadepython.com/2019/02/01/simplest-way-flatten-list-python/

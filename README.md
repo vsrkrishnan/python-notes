@@ -49,6 +49,9 @@ https://www.lalogiadepython.com/2019/01/18/namedtuples-easier-way/
 ## Primer on Python Decorators
 https://realpython.com/primer-on-python-decorators/
 
+## Python Inner Functions and Closures
+https://realpython.com/inner-functions-what-are-they-good-for/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

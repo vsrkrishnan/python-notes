@@ -77,3 +77,6 @@ https://dev.to/kchawla_pi/using-a-decorators-to-solve-my-task-the-thinking--the-
 
 ## Flattening a Nested list
 https://www.lalogiadepython.com/2019/02/01/simplest-way-flatten-list-python/
+
+## Understanding Instance, Class and Static Methods
+https://realpython.com/instance-class-and-static-methods-demystified/

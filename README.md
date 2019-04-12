@@ -52,6 +52,9 @@ https://realpython.com/primer-on-python-decorators/
 ## Python Inner Functions and Closures
 https://realpython.com/inner-functions-what-are-they-good-for/
 
+## Introduction to Python Generators
+https://realpython.com/introduction-to-python-generators/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

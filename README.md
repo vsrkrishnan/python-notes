@@ -55,6 +55,9 @@ https://realpython.com/inner-functions-what-are-they-good-for/
 ## Introduction to Python Generators
 https://realpython.com/introduction-to-python-generators/
 
+## Python Virtual Environments: A Primer
+https://realpython.com/python-virtual-environments-a-primer/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

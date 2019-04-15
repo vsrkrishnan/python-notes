@@ -58,6 +58,9 @@ https://realpython.com/introduction-to-python-generators/
 ## Python Virtual Environments: A Primer
 https://realpython.com/python-virtual-environments-a-primer/
 
+## Python List Comprehensions
+https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

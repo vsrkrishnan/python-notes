@@ -59,7 +59,7 @@ https://realpython.com/introduction-to-python-generators/
 https://realpython.com/python-virtual-environments-a-primer/
 
 ## Python List Comprehensions
-https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/
+https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/  
 https://www.youtube.com/watch?v=5_cJIcgM7rw&feature=youtu.be
 
 # Tips, Tricks and Hacks

@@ -90,3 +90,6 @@ https://www.lalogiadepython.com/2019/02/01/simplest-way-flatten-list-python/
 
 ## Understanding Instance, Class and Static Methods
 https://realpython.com/instance-class-and-static-methods-demystified/
+
+## The difference between list.sort() vs sorted()
+https://medium.com/@DahlitzF/list-sort-vs-sorted-list-aab92c00e17

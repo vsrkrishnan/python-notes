@@ -55,6 +55,16 @@ https://realpython.com/inner-functions-what-are-they-good-for/
 ## Introduction to Python Generators
 https://realpython.com/introduction-to-python-generators/
 
+## Python Virtual Environments: A Primer
+https://realpython.com/python-virtual-environments-a-primer/
+
+## Python List Comprehensions
+https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/  
+https://www.youtube.com/watch?v=5_cJIcgM7rw&feature=youtu.be
+
+## Working with IP Addresses in Python
+https://dbader.org/blog/python-ipaddress-module
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right
@@ -86,3 +96,6 @@ https://realpython.com/instance-class-and-static-methods-demystified/
 
 ## Functions, classes or callables
 http://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable
+
+## The difference between list.sort() vs sorted()
+https://medium.com/@DahlitzF/list-sort-vs-sorted-list-aab92c00e17

@@ -83,3 +83,6 @@ https://www.lalogiadepython.com/2019/02/01/simplest-way-flatten-list-python/
 
 ## Understanding Instance, Class and Static Methods
 https://realpython.com/instance-class-and-static-methods-demystified/
+
+## Functions, classes or callables
+http://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable

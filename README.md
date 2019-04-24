@@ -99,3 +99,6 @@ http://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable
 
 ## The difference between list.sort() vs sorted()
 https://medium.com/@DahlitzF/list-sort-vs-sorted-list-aab92c00e17
+
+## Overusing lambdas
+https://treyhunner.com/2018/09/stop-writing-lambda-expressions/

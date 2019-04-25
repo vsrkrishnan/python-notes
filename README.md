@@ -65,6 +65,9 @@ https://www.youtube.com/watch?v=5_cJIcgM7rw&feature=youtu.be
 ## Working with IP Addresses in Python
 https://dbader.org/blog/python-ipaddress-module
 
+## Understanding Python Scoping better
+https://stackoverflow.com/questions/291978/short-description-of-the-scoping-rules/23471004
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

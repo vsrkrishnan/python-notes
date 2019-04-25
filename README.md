@@ -105,3 +105,6 @@ https://medium.com/@DahlitzF/list-sort-vs-sorted-list-aab92c00e17
 
 ## Overusing lambdas
 https://treyhunner.com/2018/09/stop-writing-lambda-expressions/
+
+## How to use Python’s min() and max() with nested lists
+https://dbader.org/blog/python-min-max-and-nested-lists

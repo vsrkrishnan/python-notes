@@ -108,3 +108,6 @@ https://treyhunner.com/2018/09/stop-writing-lambda-expressions/
 
 ## How to use Python’s min() and max() with nested lists
 https://dbader.org/blog/python-min-max-and-nested-lists
+
+## Top 10 mistakes that Python Developers make
+https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make

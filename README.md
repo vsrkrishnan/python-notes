@@ -112,5 +112,5 @@ https://dbader.org/blog/python-min-max-and-nested-lists
 ## Top 10 mistakes that Python Developers make
 https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 
-# Using None vs Unique Objects for validation
+## Using None vs Unique Objects for validation
 https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/

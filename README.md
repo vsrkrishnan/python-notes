@@ -114,3 +114,6 @@ https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 
 ## Using None vs Unique Objects for validation
 https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/
+
+## Python's main function
+https://realpython.com/python-main-function/

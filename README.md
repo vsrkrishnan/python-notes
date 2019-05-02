@@ -68,6 +68,9 @@ https://dbader.org/blog/python-ipaddress-module
 ## Understanding Python Scoping better
 https://stackoverflow.com/questions/291978/short-description-of-the-scoping-rules/23471004
 
+## Understanding the @property decorator
+https://www.programiz.com/python-programming/property
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

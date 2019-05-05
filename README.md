@@ -71,6 +71,9 @@ https://stackoverflow.com/questions/291978/short-description-of-the-scoping-rule
 ## Understanding the @property decorator
 https://www.programiz.com/python-programming/property
 
+## A Beginner’s Guide to Big O notation
+https://medium.com/@cindychen13.work/a-beginners-guide-to-big-o-notation-793d654973d
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

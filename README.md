@@ -74,6 +74,9 @@ https://www.programiz.com/python-programming/property
 ## A Beginner’s Guide to Big O notation
 https://medium.com/@cindychen13.work/a-beginners-guide-to-big-o-notation-793d654973d
 
+## Dockers explained
+https://rajus.tech/2019/03/19/docker-explained-basics-of-docker/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

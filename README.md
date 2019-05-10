@@ -78,6 +78,9 @@ https://medium.com/@cindychen13.work/a-beginners-guide-to-big-o-notation-793d654
 https://rajus.tech/2019/03/19/docker-explained-basics-of-docker/  
 https://dev.to/djangostars/what-is-docker-and-how-to-use-it-with-python-tutorial-87a?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=
 
+## Understanding Recursion in Python
+https://realpython.com/python-thinking-recursively/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

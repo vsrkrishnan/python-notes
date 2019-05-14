@@ -81,6 +81,9 @@ https://dev.to/djangostars/what-is-docker-and-how-to-use-it-with-python-tutorial
 ## Understanding Recursion in Python
 https://realpython.com/python-thinking-recursively/
 
+## Sorting Algorithms
+https://stackabuse.com/sorting-algorithms-in-python/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

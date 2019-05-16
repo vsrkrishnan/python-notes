@@ -84,6 +84,9 @@ https://realpython.com/python-thinking-recursively/
 ## Sorting Algorithms
 https://stackabuse.com/sorting-algorithms-in-python/
 
+## Understanding Heaps in Python
+https://towardsdatascience.com/data-structure-heap-23d4c78a6962
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

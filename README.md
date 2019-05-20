@@ -139,3 +139,6 @@ https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/
 
 ## Python's main function
 https://realpython.com/python-main-function/
+
+## When should you use __repr__
+https://dbader.org/blog/python-repr-vs-str

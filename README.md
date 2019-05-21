@@ -142,3 +142,6 @@ https://realpython.com/python-main-function/
 
 ## When should you use __repr__
 https://dbader.org/blog/python-repr-vs-str
+
+## How to avoid security blips in Python
+https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03

@@ -4,6 +4,9 @@ This repository is basically a list of references for me to keep track of all th
 ## Executing your Python
 https://realpython.com/run-python-scripts/
 
+## Everything that's Python
+https://docs.python-guide.org/writing/structure/
+
 ## Operators and Expressions in Python
 https://realpython.com/python-operators-expressions/
 

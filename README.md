@@ -93,6 +93,9 @@ https://towardsdatascience.com/data-structure-heap-23d4c78a6962
 ## Python's Functions are First-Class Objects
 https://dbader.org/blog/python-first-class-functions
 
+## What is REST?
+https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

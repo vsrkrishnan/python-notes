@@ -96,6 +96,9 @@ https://dbader.org/blog/python-first-class-functions
 ## What is REST?
 https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f
 
+## Working with JSON
+https://realpython.com/python-json/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

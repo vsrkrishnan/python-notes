@@ -99,6 +99,9 @@ https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1
 ## Working with JSON
 https://realpython.com/python-json/
 
+## Unicode & Character Encodings in Python: A Painless Guide
+https://realpython.com/python-encodings-guide/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

@@ -105,6 +105,9 @@ https://realpython.com/python-encodings-guide/
 ## Memoization/Caching
 https://dbader.org/blog/python-memoization
 
+## concurrent.futures
+http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

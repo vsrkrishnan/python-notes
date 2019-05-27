@@ -102,6 +102,9 @@ https://realpython.com/python-json/
 ## Unicode & Character Encodings in Python: A Painless Guide
 https://realpython.com/python-encodings-guide/
 
+## Memoization/Caching
+https://dbader.org/blog/python-memoization
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

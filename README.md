@@ -108,6 +108,9 @@ https://dbader.org/blog/python-memoization
 ## concurrent.futures
 http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html
 
+## File Handling
+https://realpython.com/read-write-files-python/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

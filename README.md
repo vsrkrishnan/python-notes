@@ -111,6 +111,12 @@ http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futur
 ## File Handling
 https://realpython.com/read-write-files-python/
 
+## 5 things to know for Python Experts
+https://link.medium.com/fvMWJzlX8W
+
+## What's __init__ for me!
+https://towardsdatascience.com/whats-init-for-me-d70a312da583
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

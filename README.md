@@ -37,6 +37,9 @@ https://medium.com/@tyastropheus/tricky-python-ii-parameter-passing-for-mutable-
 ## Is Python pass-by-reference or pass-by-value?
 https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/
 
+## Debugging with code.interact()
+https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
+
 ## Stacks in Python
 https://dbader.org/blog/stacks-in-python
 

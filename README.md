@@ -178,3 +178,6 @@ https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-the
 
 ## Iterating through Dictionaries
 https://realpython.com/iterate-through-dictionary-python/
+
+## Packaging code example
+https://deppen8.github.io/posts/2018/09/python-packaging/

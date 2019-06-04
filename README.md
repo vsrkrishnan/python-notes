@@ -181,3 +181,6 @@ https://realpython.com/iterate-through-dictionary-python/
 
 ## Packaging code example
 https://deppen8.github.io/posts/2018/09/python-packaging/
+
+## Review of all popular data-serialization techniques
+https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/

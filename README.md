@@ -37,6 +37,9 @@ https://medium.com/@tyastropheus/tricky-python-ii-parameter-passing-for-mutable-
 ## Is Python pass-by-reference or pass-by-value?
 https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/
 
+## Debugging with code.interact()
+https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
+
 ## Stacks in Python
 https://dbader.org/blog/stacks-in-python
 
@@ -111,6 +114,12 @@ http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futur
 ## File Handling
 https://realpython.com/read-write-files-python/
 
+## 5 things to know for Python Experts
+https://link.medium.com/fvMWJzlX8W
+
+## What's __init__ for me!
+https://towardsdatascience.com/whats-init-for-me-d70a312da583
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right
@@ -166,3 +175,12 @@ https://dbader.org/blog/python-repr-vs-str
 
 ## How to avoid security blips in Python
 https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03
+
+## Iterating through Dictionaries
+https://realpython.com/iterate-through-dictionary-python/
+
+## Packaging code example
+https://deppen8.github.io/posts/2018/09/python-packaging/
+
+## Review of all popular data-serialization techniques
+https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/

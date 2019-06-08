@@ -42,6 +42,7 @@ https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-int
 
 ## Stacks in Python
 https://dbader.org/blog/stacks-in-python
+https://realpython.com/how-to-implement-python-stack/
 
 ## Queues in Python
 https://dbader.org/blog/queues-in-python
@@ -120,6 +121,9 @@ https://link.medium.com/fvMWJzlX8W
 ## What's __init__ for me!
 https://towardsdatascience.com/whats-init-for-me-d70a312da583
 
+## Python Exceptions
+https://realpython.com/python-exceptions/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right
@@ -184,3 +188,6 @@ https://deppen8.github.io/posts/2018/09/python-packaging/
 
 ## Review of all popular data-serialization techniques
 https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/
+
+## Using defaultdict and Counter to calculate number of occurrences
+https://towardsdatascience.com/python-pro-tip-start-using-python-defaultdict-and-counter-in-place-of-dictionary-d1922513f747

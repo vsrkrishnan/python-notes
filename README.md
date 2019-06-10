@@ -124,6 +124,9 @@ https://towardsdatascience.com/whats-init-for-me-d70a312da583
 ## Python Exceptions
 https://realpython.com/python-exceptions/
 
+## Python design patterns
+https://www.toptal.com/python/python-design-patterns
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

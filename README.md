@@ -194,3 +194,6 @@ https://towardsdatascience.com/python-pro-tip-start-using-python-defaultdict-and
 
 ## Why we can add tuples to list
 https://lerner.co.il/2019/06/06/why-do-python-lists-let-you-a-tuple-when-you-cant-a-tuple/
+
+## Python variables and memory management
+http://foobarnbaz.com/2012/07/08/understanding-python-variables/

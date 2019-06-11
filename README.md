@@ -203,3 +203,6 @@ https://lerner.co.il/2019/06/06/why-do-python-lists-let-you-a-tuple-when-you-can
 
 ## Python variables and memory management
 http://foobarnbaz.com/2012/07/08/understanding-python-variables/
+
+## Safely using destructors in Python
+https://eli.thegreenplace.net/2009/06/12/safely-using-destructors-in-python

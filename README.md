@@ -206,3 +206,6 @@ http://foobarnbaz.com/2012/07/08/understanding-python-variables/
 
 ## Safely using destructors in Python
 https://eli.thegreenplace.net/2009/06/12/safely-using-destructors-in-python
+
+## Python's Hidden Regular Expression Gems
+http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/

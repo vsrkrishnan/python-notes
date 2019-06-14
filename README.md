@@ -130,6 +130,9 @@ https://www.toptal.com/python/python-design-patterns
 ## Demystifying del and garbage collection
 http://foobarnbaz.com/2015/07/09/understanding-python-del-and-garbage-collection/
 
+## The Internals of String Interning
+http://guilload.com/python-string-interning/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

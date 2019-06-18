@@ -215,3 +215,6 @@ http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/
 
 ## Using multiprocessing to scale services
 http://foobarnbaz.com/2011/08/30/developing-scalable-services-with-python/
+
+## Web Service Efficiency at Instagram with Python
+https://instagram-engineering.com/web-service-efficiency-at-instagram-with-python-4976d078e366

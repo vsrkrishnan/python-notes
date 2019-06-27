@@ -136,6 +136,9 @@ http://guilload.com/python-string-interning/
 ## Guide to the time module
 https://realpython.com/python-time-module/
 
+## Python Lambdas
+https://realpython.com/python-lambda/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

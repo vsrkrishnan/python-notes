@@ -230,3 +230,6 @@ https://shaneoneill.io/2019/06/12/use-__main__-py/
 
 ## Using pathlib instead of os.path
 https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+## Extracting from heavily nested JSON
+https://hackersandslackers.com/extract-data-from-complex-json-python/

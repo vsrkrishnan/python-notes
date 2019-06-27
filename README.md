@@ -139,6 +139,9 @@ https://realpython.com/python-time-module/
 ## Python Lambdas
 https://realpython.com/python-lambda/
 
+## Free and Bound Variables
+https://stackoverflow.com/questions/21855838/what-are-free-and-bound-variables
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

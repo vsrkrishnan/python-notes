@@ -236,3 +236,7 @@ https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
 
 ## Extracting from heavily nested JSON
 https://hackersandslackers.com/extract-data-from-complex-json-python/
+
+## Another set of Dos and Donts
+https://www.pythoncircle.com/post/602/5-common-mistakes-made-by-beginner-python-programmers/
+

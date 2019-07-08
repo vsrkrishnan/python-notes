@@ -60,7 +60,8 @@ https://realpython.com/primer-on-python-decorators/
 https://realpython.com/inner-functions-what-are-they-good-for/
 
 ## Introduction to Python Generators
-https://realpython.com/introduction-to-python-generators/
+https://realpython.com/introduction-to-python-generators/  
+https://dbader.org/blog/python-generator-expressions
 
 ## Python Virtual Environments: A Primer
 https://realpython.com/python-virtual-environments-a-primer/

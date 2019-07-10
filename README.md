@@ -246,3 +246,6 @@ https://www.pythoncircle.com/post/602/5-common-mistakes-made-by-beginner-python-
 
 ## Python or operator
 https://realpython.com/python-or-operator/
+
+## OOP Refresher
+https://www.pythonprogramming.in/object-oriented-programming.html

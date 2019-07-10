@@ -143,6 +143,9 @@ https://realpython.com/python-lambda/
 ## Free and Bound Variables
 https://stackoverflow.com/questions/21855838/what-are-free-and-bound-variables
 
+## Python's assert statement
+https://stackabuse.com/the-python-assert-statement/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

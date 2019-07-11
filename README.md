@@ -249,3 +249,6 @@ https://realpython.com/python-or-operator/
 
 ## OOP Refresher
 https://www.pythonprogramming.in/object-oriented-programming.html
+
+## Google's Python Style Guide
+https://google.github.io/styleguide/pyguide.html

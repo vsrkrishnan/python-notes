@@ -146,6 +146,9 @@ https://stackoverflow.com/questions/21855838/what-are-free-and-bound-variables
 ## Python's assert statement
 https://stackabuse.com/the-python-assert-statement/
 
+## Recursive Algorithms
+https://skerritt.blog/divide-and-conquer-algorithms/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

@@ -255,3 +255,6 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 
 ## Google's Python Style Guide
 https://google.github.io/styleguide/pyguide.html
+
+## Python hobby projects
+https://www.reddit.com/r/Python/comments/awb9v5/useful_python_tricks/

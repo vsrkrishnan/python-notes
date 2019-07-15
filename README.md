@@ -126,7 +126,8 @@ https://towardsdatascience.com/whats-init-for-me-d70a312da583
 https://realpython.com/python-exceptions/
 
 ## Python design patterns
-https://www.toptal.com/python/python-design-patterns
+https://www.toptal.com/python/python-design-patterns  
+https://www.toptal.com/python/python-parameterized-design-patterns
 
 ## Demystifying del and garbage collection
 http://foobarnbaz.com/2015/07/09/understanding-python-del-and-garbage-collection/

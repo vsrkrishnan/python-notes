@@ -150,6 +150,9 @@ https://stackabuse.com/the-python-assert-statement/
 ## Recursive Algorithms
 https://skerritt.blog/divide-and-conquer-algorithms/
 
+## Why Python doesn't need Pointers
+https://realpython.com/pointers-in-python/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

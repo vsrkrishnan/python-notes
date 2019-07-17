@@ -262,3 +262,6 @@ https://google.github.io/styleguide/pyguide.html
 
 ## Python hobby projects
 https://www.reddit.com/r/Python/comments/awb9v5/useful_python_tricks/
+
+## How to check and reduce size of objects
+https://habr.com/en/post/458518/

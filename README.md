@@ -153,6 +153,9 @@ https://skerritt.blog/divide-and-conquer-algorithms/
 ## Why Python doesn't need Pointers
 https://realpython.com/pointers-in-python/
 
+## Python optimizations
+https://www.codementor.io/mjpieters/python-optimization-how-it-can-make-you-a-better-programmer-ajiiftqbo
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

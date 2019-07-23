@@ -274,3 +274,6 @@ https://habr.com/en/post/458518/
 
 ## Function call vs literals
 https://bassi.li/blog/2019/07/15/set-vs-literal-in-python-3.html
+
+## How to find Python Module dependencies
+https://stackoverflow.com/questions/29751572/how-to-find-a-python-packages-dependencies

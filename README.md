@@ -277,3 +277,6 @@ https://bassi.li/blog/2019/07/15/set-vs-literal-in-python-3.html
 
 ## How to find Python Module dependencies
 https://stackoverflow.com/questions/29751572/how-to-find-a-python-packages-dependencies
+
+## Fibonacci sequence with Walrus Operator
+https://mobile.twitter.com/codewithanthony/status/1140845413945057280

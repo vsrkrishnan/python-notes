@@ -280,3 +280,6 @@ https://stackoverflow.com/questions/29751572/how-to-find-a-python-packages-depen
 
 ## Fibonacci sequence with Walrus Operator
 https://mobile.twitter.com/codewithanthony/status/1140845413945057280
+
+## Building a CO2 monitor with Raspberry Pi
+https://ngoldbaum.github.io/posts/co2-monitor/

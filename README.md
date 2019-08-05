@@ -156,8 +156,11 @@ https://realpython.com/pointers-in-python/
 ## Python optimizations
 https://www.codementor.io/mjpieters/python-optimization-how-it-can-make-you-a-better-programmer-ajiiftqbo
 
-How to use the Google Login features on your website!
+## How to use the Google Login features on your website!
 https://realpython.com/flask-google-login/
+
+## Comparison of Flask and Django
+https://testdriven.io/blog/django-vs-flask/?utm_source=realpython
 
 # Tips, Tricks and Hacks
 

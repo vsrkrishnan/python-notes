@@ -162,6 +162,9 @@ https://realpython.com/flask-google-login/
 ## Comparison of Flask and Django
 https://testdriven.io/blog/django-vs-flask/?utm_source=realpython
 
+## TypedDict
+https://www.python.org/dev/peps/pep-0589/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

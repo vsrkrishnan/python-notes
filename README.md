@@ -165,6 +165,9 @@ https://testdriven.io/blog/django-vs-flask/?utm_source=realpython
 ## TypedDict
 https://www.python.org/dev/peps/pep-0589/
 
+## Python Caches Small Integers
+https://arpitbhayani.me/blogs/python-caches-integers
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

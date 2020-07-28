@@ -168,6 +168,9 @@ https://www.python.org/dev/peps/pep-0589/
 ## Python Caches Small Integers
 https://arpitbhayani.me/blogs/python-caches-integers
 
+## Timsort
+https://skerritt.blog/timsort-the-fastest-sorting-algorithm-youve-never-heard-of/
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

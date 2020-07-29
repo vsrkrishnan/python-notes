@@ -296,5 +296,8 @@ https://mobile.twitter.com/codewithanthony/status/1140845413945057280
 ## Building a CO2 monitor with Raspberry Pi
 https://ngoldbaum.github.io/posts/co2-monitor/
 
-What does the slash mean in help() output in Python 3.4?
+## What does the slash mean in help() output in Python 3.4?
 https://stackoverflow.com/questions/24735311/python-what-does-the-slash-mean-in-help-output
+
+## Import anything with python
+https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-loaders-and-finders-f5e7b15cda47

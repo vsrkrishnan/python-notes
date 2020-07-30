@@ -171,6 +171,9 @@ https://arpitbhayani.me/blogs/python-caches-integers
 ## Timsort
 https://skerritt.blog/timsort-the-fastest-sorting-algorithm-youve-never-heard-of/
 
+## Singleton as a decorator
+https://medium.com/better-programming/singleton-in-python-5eaa66618e3d
+
 # Tips, Tricks and Hacks
 
 ## Aligning large strings right

@@ -304,3 +304,6 @@ https://stackoverflow.com/questions/24735311/python-what-does-the-slash-mean-in-
 
 ## Import anything with python
 https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-loaders-and-finders-f5e7b15cda47
+
+## Use lamdas with multiprocessing
+https://medium.com/@yasufumy/python-multiprocessing-c6d54107dd55

@@ -307,3 +307,6 @@ https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-l
 
 ## Use lamdas with multiprocessing
 https://medium.com/@yasufumy/python-multiprocessing-c6d54107dd55
+
+## Python builtin functions
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
